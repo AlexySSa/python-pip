@@ -2,6 +2,7 @@ import utils
 import read_csv
 import charts
 
+
 def run():
   data = read_csv.read_csv('./app/data.csv')
   
